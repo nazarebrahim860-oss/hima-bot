@@ -8,7 +8,7 @@ from telegram.ext import (
     ContextTypes,
 )
 
-TOKEN = "8420980985:AAFn767gPsg8NkPI3BBzmCwGYzd6BMllqnY"
+TOKEN = "8420980985:AAFLa9q29XSEscGdrHvMtGA2Irji_GK4Kbo"
 
 headers = {
     "User-Agent": "Mozilla/5.0"
