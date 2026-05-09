@@ -8,7 +8,7 @@ from telegram.ext import (
     ContextTypes,
 )
 
-TOKEN = "PUT_BOT_TOKEN"
+TOKEN = "8420980985:AAFn767gPsg8NkPI3BBzmCwGYzd6BMllqnY"
 
 headers = {
     "User-Agent": "Mozilla/5.0"
